@@ -1,0 +1,41 @@
+Help Menu
+University App  -  May 2020 -Designet to make students' life easier and performance better...
+
+Dear User,
+       This system is intended for academic use.Its main goal is to help students be
+  more organized.
+        Functionalities:
+    1.Search Available Courses - this button will redirect you to a new window tha will
+       contain the table of courses that you can take based your major and minor, 
+       and the table of your actual courses. By clicking in the desired row of a table 
+       or by manually entering the course ID into the textfield you can add or drop the
+       course that you want.
+
+   2.Check Course Details - this button will redirect you to the window of all courses.
+       There are two tables.The first one lists all courses offered in the current semester,
+       while the second one lists all the participants of the course. You can either  click  the 
+       course in the table or enter its ID manually to see the details.
+         
+  3.See All Students - this window will give you the possibility to see all students of the
+     university. You can click on the table to select a student and then press the Add Friend
+     button to that student to your friends list. You can search for students by entering their
+     name and then pressing the Search button. If you want to see all students simply press
+     Display All button.
+
+  4.See My Friends - this button will redirect you to a window that will show all your friends.
+     By clicking a friend in the Friends Table you are going to check the friends' course list.
+
+  5.Update Profile- this window will allow you to change your name, your surname and age.
+     After th emodifications press Update button.
+
+  6.Log out- this will sign you out and close the application.
+
+  7.Go to Course - this button will redirect you to the course age where you can check the
+     the course details, read the comments of  students and add comments if you want. You 
+     go to courses that are in your course list only. You can select the course from the table 
+     and then click the button.
+
+ If there are any issues, please e-mail at dorielag18@gmail.com or dorielagrabocka@unyt.edu.al.
+    
+ We hope you enjoy your experience here!
+ BEST WISHES!
